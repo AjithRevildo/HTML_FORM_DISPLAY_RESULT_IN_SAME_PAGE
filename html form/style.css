@@ -1,0 +1,38 @@
+.body
+{
+background-color:rgb(32, 223, 207);
+}
+.male 
+{
+    margin-right: 9px;
+}
+.food
+{
+    margin-right: 9px;
+}
+.female 
+{
+    margin-right: 9px;
+}
+.style
+{
+    font-size: 15px;
+}
+.button
+{
+    width: 100%;
+    border-color: black;
+    color:black; 
+}
+*{
+    box-sizing: border-box;
+    font-size: 15px;
+}
+.box
+{
+margin-top: 40px;
+}
+.database
+{
+margin: 50px 40px 0px 50px;
+}
